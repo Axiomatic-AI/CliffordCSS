@@ -1,7 +1,7 @@
 # CliffordCSS
 
 The structure of depth-one Clifford circuits for CSS codes, formalised in Lean 4: Appendix D of
-V. V. Albert, *Beyond transversality: structure of Clifford circuits for CSS codes*,
+*Beyond transversality: structure of Clifford circuits for CSS codes*,
 [arXiv:2608.05688](https://arxiv.org/abs/2608.05688).
 
 The headline is **Theorem D.1**, Eq. (D3) — `N_M = ⟨ S^Z_M, S^X_M, L_M ⟩`:
